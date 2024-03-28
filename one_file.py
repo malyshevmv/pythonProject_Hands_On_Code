@@ -6,3 +6,8 @@ def fuu():
 
 
 fuu()
+
+def f2():
+    return 'hello'
+
+print(f2)
